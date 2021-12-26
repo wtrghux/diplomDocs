@@ -16,8 +16,8 @@
 
 ## Примеры пользовательского интерфейса (UI)
 
-![example #1](pics/UI_examples/Screenshot_1.png)
-![example #2](pics/UI_examples/Screenshot_2.png)
-![example #3](pics/UI_examples/Screenshot_3.png)
-![example #4](pics/UI_examples/Screenshot_4.png)
-![example #5](pics/UI_examples/Screenshot_5.png)
+![example #1](pics/UI_examples/Screenshot_1.jpg)
+![example #2](pics/UI_examples/Screenshot_2.jpg)
+![example #3](pics/UI_examples/Screenshot_3.jpg)
+![example #4](pics/UI_examples/Screenshot_4.jpg)
+![example #5](pics/UI_examples/Screenshot_5.jpg)
